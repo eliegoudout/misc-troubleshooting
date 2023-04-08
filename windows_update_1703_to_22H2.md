@@ -1,6 +1,6 @@
 I recently had to update a Windows 10, from version `1703` to version `22H2` and things were harder than they could have been...
 
-Here, I simply list the 3 main problems I encountered and the corresponding fixes. You might not encounter similar issues, and I can't garantee that these fixes will work for you, but they might be a first investigation step.
+Here, I simply list the 3 main problems I encountered and the corresponding fixes. You might not encounter similar issues, and I can't guarantee that these fixes will work for you, but they might be a first investigation step.
 
 - [Error 0x80070070](#error-0x80070070----not-enough-disk-space)
 - [Error 0xc1900201](#error-0xc1900201----you-cant-install-windows-on-a-usb-flash-drive-using-setup)
